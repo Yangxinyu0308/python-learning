@@ -1,0 +1,22 @@
+{
+  "python.defaultInterpreterPath": "python",
+  "files.encoding": "utf8",
+  "files.associations": {
+    "*.md": "markdown"
+  },
+  "editor.rulers": [100],
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  },
+  "python.testing.unittestEnabled": true,
+  "python.testing.pytestEnabled": false,
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./tests",
+    "-p",
+    "test_*.py"
+  ],
+  "git.ignoreLimitWarning": true
+}

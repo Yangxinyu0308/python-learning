@@ -1,0 +1,281 @@
+{
+  "_comment": "这是 2026-10 从爱奇艺搜索接口抓到的真实返回，只保留了测试要用的字段和 3 条结果。",
+  "data": {
+    "templates": [
+      {
+        "template": 101,
+        "s3": "剧集类型展示",
+        "docId": "f6beab4169cbc5cc48f343cf6a8c7859",
+        "albumInfo": {
+          "title": "狂飙",
+          "img": "https://pic0.iqiyipic.com/image/20231113/8b/04/a_100476174_m_601_m44_260_360.avif",
+          "channel": "电视剧,2",
+          "siteId": "iqiyi",
+          "siteName": "爱奇艺",
+          "pageUrl": "https://www.iqiyi.com/v_xkt6z3z798.html",
+          "qipuId": 5328486914190101,
+          "firstVideoIsVip": true,
+          "rating": 9.5,
+          "hot": 3147,
+          "year": {
+            "key": "年份",
+            "value": "2023"
+          },
+          "region": {
+            "key": "区域",
+            "value": "内地"
+          },
+          "baseTags": [
+            {
+              "key": "baseTags",
+              "value": "警匪"
+            },
+            {
+              "key": "baseTags",
+              "value": "罪案"
+            },
+            {
+              "key": "baseTags",
+              "value": "扫黑缉毒"
+            },
+            {
+              "key": "baseTags",
+              "value": "悬疑"
+            },
+            {
+              "key": "baseTags",
+              "value": "犯罪"
+            },
+            {
+              "key": "baseTags",
+              "value": "动作"
+            },
+            {
+              "key": "baseTags",
+              "value": "警匪罪案"
+            },
+            {
+              "key": "baseTags",
+              "value": "文学改编"
+            },
+            {
+              "key": "baseTags",
+              "value": "当代"
+            },
+            {
+              "key": "baseTags",
+              "value": "内地"
+            },
+            {
+              "key": "baseTags",
+              "value": "央视八套"
+            }
+          ],
+          "tags": [
+            {
+              "text": "扫黑缉毒",
+              "isJumpLibrary": true
+            },
+            {
+              "text": "警匪罪案",
+              "isJumpLibrary": true
+            }
+          ],
+          "metaTags": [
+            {
+              "name": "9.5",
+              "style": "rating"
+            },
+            {
+              "name": "第34届飞天奖获奖",
+              "style": "special"
+            },
+            {
+              "name": "热度破10000",
+              "style": "special",
+              "extra": {
+                "jumpName": "热度破10000"
+              },
+              "isJumpLibrary": true
+            },
+            {
+              "name": "豆瓣高分",
+              "style": "special",
+              "extra": {
+                "jumpName": "豆瓣高分"
+              },
+              "isJumpLibrary": true
+            },
+            {
+              "name": "弹幕破9000万",
+              "style": "special",
+              "extra": {
+                "jumpName": "弹幕破9000万"
+              },
+              "isJumpLibrary": true
+            },
+            {
+              "name": "央视",
+              "style": "",
+              "extra": {
+                "jumpName": "央视"
+              },
+              "isJumpLibrary": true
+            },
+            {
+              "name": "扫黑缉毒",
+              "style": "",
+              "extra": {
+                "jumpName": "扫黑缉毒"
+              },
+              "isJumpLibrary": true
+            },
+            {
+              "name": "警匪",
+              "style": "",
+              "extra": {
+                "jumpName": "警匪"
+              },
+              "isJumpLibrary": true
+            },
+            {
+              "name": "罪案",
+              "style": "",
+              "extra": {
+                "jumpName": "罪案"
+              },
+              "isJumpLibrary": true
+            }
+          ],
+          "brief": {
+            "key": "简介",
+            "value": "由金牌导演徐纪周执导，张译、张颂文、李一桐、张志坚、吴刚领衔主演，倪大红、韩童生、李建义特邀主演的中央政法委重点项目。一部扫黑除恶坚决斗争的回忆录，横跨20年的群像叙事全景式展现时代变迁下的黑白较量与复杂人性。"
+          },
+          "introduction": "张译张颂文黑白较量",
+          "subscriptContent": "39集全",
+          "totalNumber": 39,
+          "category": {
+            "key": "类型",
+            "value": "警匪,罪案,悬疑"
+          },
+          "actors": {
+            "key": "主演",
+            "value": [
+              {
+                "qipuId": 203609805,
+                "title": "张译"
+              },
+              {
+                "qipuId": 215011505,
+                "title": "张颂文"
+              },
+              {
+                "qipuId": 231744905,
+                "title": "李一桐"
+              },
+              {
+                "qipuId": 223387205,
+                "title": "张志坚"
+              }
+            ]
+          },
+          "directors": {
+            "key": "导演",
+            "value": [
+              {
+                "qipuId": 203709005,
+                "title": "徐纪周"
+              }
+            ]
+          },
+          "properties": [
+            "directors",
+            "actors",
+            "category",
+            "brief"
+          ]
+        }
+      },
+      {
+        "template": 108,
+        "s3": "短视频",
+        "docId": "e9c57c48343a7a40f0dea20e4bf6efc3",
+        "albumInfo": {
+          "title": "强哥逗大嫂这一段超搞笑😂😂😂#狂飙#张颂文#高叶",
+          "img": "https://u4.iqiyipic.com/image/20260610/4c/bc/pv_4323373109941900_d_601_284_160.avif",
+          "channel": "片花,10",
+          "siteId": "iqiyi",
+          "siteName": "爱奇艺",
+          "pageUrl": "https://www.iqiyi.com/v_160r3oj8oo0.html",
+          "qipuId": 4323373109941900,
+          "firstVideoIsVip": false,
+          "brief": {
+            "key": "简介",
+            "value": "强哥逗大嫂这一段超搞笑😂😂😂#狂飙#张颂文#高叶"
+          },
+          "duration": 37000,
+          "subscriptContent": "00:37",
+          "releaseTime": {
+            "key": "发布时间",
+            "value": "2026-06-10"
+          },
+          "uploader": {
+            "key": "上传者",
+            "value": "大强爱上历史"
+          },
+          "properties": [
+            "releaseTime",
+            "uploader",
+            "brief"
+          ]
+        }
+      },
+      {
+        "template": 108,
+        "s3": "短视频",
+        "docId": "0ca5d0b277cd1a4cc214e6a97e07b8e1",
+        "albumInfo": {
+          "title": "《狂飙》删减的剧情才是全剧的精彩部分!",
+          "img": "https://u8.iqiyipic.com/image/20260812/bd/f8/pv_3600621681385300_d_601_m1_284_160.avif",
+          "channel": "片花,10",
+          "siteId": "iqiyi",
+          "siteName": "爱奇艺",
+          "pageUrl": "https://www.iqiyi.com/v_zc1uy4ny2g.html?playertype=immersiveShort",
+          "qipuId": 3600621681385300,
+          "firstVideoIsVip": false,
+          "brief": {
+            "key": "简介",
+            "value": ""
+          },
+          "duration": 222000,
+          "subscriptContent": "03:42",
+          "releaseTime": {
+            "key": "发布时间",
+            "value": "2026-08-12"
+          },
+          "uploader": {
+            "key": "上传者",
+            "value": "暴走斑比"
+          },
+          "properties": [
+            "releaseTime",
+            "uploader"
+          ]
+        }
+      },
+      {
+        "template": 100,
+        "s3": "无正片结果",
+        "docId": "junk",
+        "albumInfo": {
+          "title": ""
+        }
+      }
+    ],
+    "pageSize": "20",
+    "pageNum": "1",
+    "resultNum": 19831,
+    "realQuery": "狂飙"
+  },
+  "code": "0"
+}

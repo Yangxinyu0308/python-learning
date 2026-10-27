@@ -1,0 +1,16 @@
+# 忽略 Python 产生的垃圾文件
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 抓下来的数据不进仓库（不然仓库会被数据文件撑爆）
+data/*.csv
+data/*.json
+
+# 跑测试时产生的临时文件
+tests/_tmp/
+
+# 编辑器 / 系统
+.vscode/*.log
+Thumbs.db
+desktop.ini

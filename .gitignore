@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# 编辑器
+.vscode/settings.json
+*.code-workspace
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 爬虫抓下来的数据（体积大、随时能重抓，不进 Git）
+iqiyi_spider/data/*.csv
+iqiyi_spider/data/*.json
+
+# 密钥 / 凭据，永远不要提交
+.env
+*.token
+credentials.json
+*_credentials*
